@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;GymProject_v04/src&apos;&#x0D;&#x0A;- Original project: &apos;GymProject_v03&apos;&#x0D;&#x0A;- Destination element: &apos;GymProject_v04/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     GymProject_v03/src/global.sesoc.main&#x0D;&#x0A;     GymProject_v03/src/global.sesoc.service&#x0D;&#x0A;     GymProject_v03/src/global.sesoc.ui&#x0D;&#x0A;     GymProject_v03/src/global.sesoc.vo" description="Copy packages" destination="=GymProject_v04/src" element1="/src&lt;global.sesoc.main" element2="/src&lt;global.sesoc.service" element3="/src&lt;global.sesoc.ui" element4="/src&lt;global.sesoc.vo" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1668393972965" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+ObjectInputStream
+ObjectOutputStream
+
+*.txt 보다는 다른파일로
+*.dat
+
+사용자가 작성한 VO클래스를 직렬화 과정을 거쳐야한다
+	public class ScoreVO implements Serializable <== 요게 직렬화 한거 

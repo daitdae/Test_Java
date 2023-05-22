@@ -1,0 +1,13 @@
+content_assist_autoactivation_triggers_java=.
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="service.GymService"><rhs name\="service.GymService"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.Readable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.BufferedReader"><rhs name\="java.io.BufferedReader"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+java_multi_line_comment=128,128,128
+java_single_line_comment=128,128,128
+org.eclipse.jdt.ui.formatterprofiles.version=22
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="print to_blah" enabled\="true" name\="sysout">System.out.print(${word_selection}${});${cursor}</template><template autoinsert\="true" context\="java" deleted\="false" description\="print to~blah" enabled\="true" name\="sysoutf">System.out.printf(${word_selection}${});${cursor}</template><template autoinsert\="true" context\="java" deleted\="false" description\="print to~ blah" enabled\="true" name\="sysoutln">System.out.println(${word_selection}${});${cursor}</template><template autoinsert\="true" context\="java" deleted\="false" description\="" enabled\="true" name\="scan">Scanner sc \= new Scanner(System.in);</template></templates>
+sourceHoverBackgroundColor=41,41,41
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

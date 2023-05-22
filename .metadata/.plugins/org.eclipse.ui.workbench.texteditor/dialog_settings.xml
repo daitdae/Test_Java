@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="CHE"/>
+		<list key="findhistory">
+			<item value="che"/>
+			<item value="시퀀스"/>
+			<item value="drop se"/>
+			<item value="기본 키"/>
+			<item value="확인"/>
+			<item value="like"/>
+			<item value="UPPER"/>
+			<item value="not"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+</section>
